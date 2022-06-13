@@ -1,0 +1,47 @@
+/* Importing Google fonts */
+
+ 
+
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wdth,wght@86.9,338;100,300;100,400;100,500;100,700;100,900&family=Noto+Serif:wght@700&display=swap);
+
+ 
+
+/* Importing component files */
+
+@import url("component/container.css");
+
+@import url("component/avatar.css");
+
+@import url("component/button.css");
+
+@import url("component/banner.css");
+
+@import url("component/card.css");
+
+/* General style rules for fonts and colors */
+
+body {
+
+  font-family: 'Lustria', serif;
+
+  font-size: 18px;
+
+  margin: 0px;
+
+ 
+
+}
+
+h1, h2, h3 {
+
+  font-family: 'Noto Serif Display', sans-serif;
+
+  font-weight: bold;
+
+}
+
+a {
+
+  text-decoration: none;
+
+}   
